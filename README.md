@@ -8,15 +8,15 @@
 - PyJWT (用于 token 生成和验证)
 
 ## 演示
-### 1. [认证服务演示](./auth_demo.md)
-### 2. [文档服务演示](./document_demo.md)
-### 3. [会话服务演示]()
+### 1. [认证服务演示](./assets/docs/auth_demo.md)
+### 2. [文档服务演示](./assets/docs/document_demo.md)
+### 3. [会话服务演示](./assets/docs/sess_demo.md)
 
 
 ## 设计文档
 ### 1. [认证服务设计文档](./apps/auth/README.md)
 ### 2. [文档服务设计文档](./apps/document/README.md)
-### 3. [会话服务设计文档]()
+### 3. [会话服务设计文档](./apps/sess/README.md)
 
 ## 部署说明
 
