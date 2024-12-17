@@ -18,4 +18,3 @@ MONGODB_CONFIG = {
 
 # JWT 配置
 JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY', 'your-secret-key')
-JWT_ACCESS_TOKEN_EXPIRES = 3600  # 1小时 
